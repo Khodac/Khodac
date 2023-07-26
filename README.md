@@ -15,8 +15,8 @@ Bienvenido a mi perfil de GitHub.
 
 <br>
 
- <div align="center">
-  <a href="CV_PABLOCABALLERO.pdf" download>
+<div align="center">
+  <a href="./CV_PABLOCABALLERO.pdf">
     <img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" />
   </a>
 </div>
