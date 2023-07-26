@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub.
 
 <div align="center">
   
-  <a href="https://github.com/Khodac/PabloCaballero/files/11951967/Curriculum.Pablo.Caballero.Marin.pdf" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
+  <a href="https://github.com/Khodac/Khodac/blob/42f4c9565912a181b4663f2f45d66f3796e1e6eb/CV_PABLOCABALLERO.pdf" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
 
 </div>
 
