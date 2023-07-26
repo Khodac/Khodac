@@ -1,6 +1,6 @@
 # Khodac
 <div align="center">
-  <img src= "https://github.com/Khodac/126791366/CopiadePabloCaballero.png"></img>
+    <img src= "https://github.com/Khodac/PabloCaballero/assets/126791366/4db7a2bc-ea7c-4b93-87e5-69ce5eed62b0"></img>
 </div>
 
 ## Hola a tod@s 👋
