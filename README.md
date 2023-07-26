@@ -16,7 +16,7 @@ Bienvenido a mi perfil de GitHub.
 <br>
 
 <div align="center">
-  <a href="https://github.com/Khodac/Khodac/blob/90b1874cdcc1ac5b7adbd891b61faf4293d697bb/CV_PABLOCABALLERO.pdf" target="_blank" download>
+  <a href="https://github.com/Khodac/Khodac/90b1874cdcc1ac5b7adbd891b61faf4293d697bb/CV_PABLOCABALLERO.pdf" target="_blank" download>
     <img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" />
   </a>
 </div>
